@@ -14,7 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image:url(../assets/AdobeStock_80052496\ [Converted].svg);
+  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
